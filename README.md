@@ -7,4 +7,4 @@ cara menjalankan aplikasi:
 2. buka vscode/sublime
 3. buka terminal
 4. ketikkan "npm i"
-5. setelah itu 
+5. setelah itu ketikkan "npm run serve" pada terminal
